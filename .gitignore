@@ -9,6 +9,11 @@
 # production
 /build
 
+# notes
+~$ack Chat Tutorial.docx
+Slack Chat Tutorial.docx
+~WRL0005.tmp
+
 # misc
 .DS_Store
 .env.local
